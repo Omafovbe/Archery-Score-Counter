@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="whiteBtn">White</string>
+    <string name="blackBtn">Black</string>
+    <string name="blueBtn">Blue</string>
+    <string name="redBtn">Red</string>
+    <string name="goldBtn">Gold</string>
+    <string name="reset">Reset</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="initial_score">0</string>
+</resources>
